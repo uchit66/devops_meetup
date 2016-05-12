@@ -10,11 +10,12 @@ This isn't an exhaustive list of things that you can't do. Rather, take it in th
 
 This code of conduct applies to all spaces managed by DevOps Meetup. This includes online chat, mailing lists, and in-person events.
 
-Be friendly and patient.
-Be welcoming. We strive to be a community that welcomes and supports people of all backgrounds and identities. This includes, but is not limited to: members of any race, ethnicity, culture, national origin, color, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, political belief, religion, mental ability, and physical ability.
-Be respectful. Not all of us will agree all the time, but disagreement is no excuse for poor behavior and poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack. It's important to remember that a community where people feel uncomfortable or threatened is not a productive one. Members of DevOps Meetup should be respectful when dealing with other members as well as with people outside of DevOps Meetup community.
+- Be friendly and patient.
+- Be welcoming. We strive to be a community that welcomes and supports people of all backgrounds and identities. This includes, but is not limited to: members of any race, ethnicity, culture, national origin, color, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, political belief, religion, mental ability, and physical ability.
+- Be respectful. Not all of us will agree all the time, but disagreement is no excuse for poor behavior and poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack. It's important to remember that a community where people feel uncomfortable or threatened is not a productive one. Members of DevOps Meetup should be respectful when dealing with other members as well as with people outside of DevOps Meetup community.
 
-Be careful in the words that you choose. We are a community of members with a wide range of backgrounds and we conduct ourselves professionally. Be kind to others. Do not insult or put down other members. Harassment and other exclusionary behavior aren't acceptable. This includes, but is not limited to:
+- Be careful in the words that you choose. We are a community of members with a wide range of backgrounds and we conduct ourselves professionally. Be kind to others. Do not insult or put down other members. Harassment and other exclusionary behavior aren't acceptable. This includes, but is not limited to:
+
 Violent threats or language directed against another person.
 Discriminatory jokes and language.
 Posting sexually explicit or violent material.
