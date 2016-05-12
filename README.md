@@ -16,15 +16,16 @@ This code of conduct applies to all spaces managed by DevOps Meetup. This includ
 
 - Be careful in the words that you choose. We are a community of members with a wide range of backgrounds and we conduct ourselves professionally. Be kind to others. Do not insult or put down other members. Harassment and other exclusionary behavior aren't acceptable. This includes, but is not limited to:
 
-Violent threats or language directed against another person.
-Discriminatory jokes and language.
-Posting sexually explicit or violent material.
-Posting other people's personally identifying information ("doxing").
-Personal insults, especially those using racist or sexist terms.
-Unwelcome sexual attention.
-Advocating for, encouraging, or threatening any of the above behavior.
-Repeated harassment of others. If someone asks you to stop, then stop.
-When we disagree, try to understand why. Disagreements, both social and technical, happen all the time and DevOps Meetup is no exception. It is important that we resolve disagreements and differing views constructively. Remember that we're different. The strength of DevOps Meetup comes from its varied community, people from a wide range of backgrounds. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn't mean that they're wrong. Don't forget that it is human to err and blaming each other doesn't get us anywhere. Rather, offer to help resolve issues and help learn from mistakes.
+  - Violent threats or language directed against another person.
+  - Discriminatory jokes and language.
+  - Posting sexually explicit or violent material.
+  - Posting other people's personally identifying information ("doxing").
+  - Personal insults, especially those using racist or sexist terms.
+  - Unwelcome sexual attention.
+  - Advocating for, encouraging, or threatening any of the above behavior.
+  - Repeated harassment of others. If someone asks you to stop, then stop.
+  - When we disagree, try to understand why. Disagreements, both social and technical, happen all the time and DevOps Meetup is no       exception. It is important that we resolve disagreements and differing views constructively. Remember that we're different. The strength of DevOps Meetup comes from its varied community, people from a wide range of backgrounds. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn't mean that they're wrong. Don't forget that it is human to err and blaming each other doesn't get us anywhere. Rather, offer to help resolve issues and help learn from mistakes.
+
 If you experience or witness disregard for this code of conduct please report it to an organizer as soon as possible. Even if you do not want any action taken it is useful for organizers to be informed so they might notice behavioral patterns and take action before a serious problem occurs.
 
 Email the Organizers: contact@hellouchit.com
