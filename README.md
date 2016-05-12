@@ -1,5 +1,5 @@
 DevOps Meetup Code of Conduct
-
+==============================
 Be kind to everyone. Note that people may operate under different definitions of kind; try to use the superset.
 
 DevOps Meetup is a community intended for learning, networking, and collaboration and has members with different backgrounds and perspectives from all over the India and beyond.
